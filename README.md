@@ -6,7 +6,7 @@ Na engenharia de avaliações, o valor de um imóvel é resultante de uma comple
 - Anseios e desejos
 - Escassez e abundância
 
-Uma avaliação busca usar métodos científicos para estimar o valor de um imóvel, o mais comum é Método da Comparação Direta de Dados (MCDD), onde, a partir de uma coleta de dados, métodos de comparação são utilizados a fim de estimar os valores. 
+Uma avaliação busca usar métodos científicos para estimar o valor de um imóvel, o mais comum é Método da Comparação Direta de Dados (MCDD), como o próprio nome já diz, o método usa de uma coleta de dados reais a fim de estimar por base em comparações e métodos matemáticos (como regressão) o valor de um determinado imóvel. 
 
 ## Objetivo
 Nos arquivos até o presente momento foram feitos exemplos simples, com poucas variáveis, pelo método comumente utilizado, que é a regressão múltipla.
