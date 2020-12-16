@@ -5,6 +5,7 @@ Na engenharia de avaliações, o valor de um imóvel é resultante de uma comple
 - Acesso à meios de pagamento
 - Anseios e desejos
 - Escassez e abundância
+
 Uma avaliação busca usar métodos científicos para estimar o valor de um imóvel, o mais comum é Método da Comparação Direta de Dados (MCDD), onde, a partir de uma coleta de dados métodos de comparação são utilizados a fim de estimar os valores
 
 ## Objetivo
